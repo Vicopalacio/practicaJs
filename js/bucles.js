@@ -39,3 +39,13 @@ do{
 
 //por ejemplo, si yo quiero decir que cantidad de mates es 0, el DO hace que si o si se realice esa primera linea de codigo, y despues vemos que no seguira realizando el bucle, pero al menos una vez si lo realiza. Esa es la diferencia.
 
+//tercer bucle FOR
+/*
+    for(inicializar una variable ; condicion logica ; modificar la variable creada al inicio){
+        todo el codigo que quiero ejecutar muchas veces
+    }
+*/
+
+for(let mates = 20; mates >=1; mates = mates -2){
+    document.write("<br> cantidad de mates: " + mates);
+}
