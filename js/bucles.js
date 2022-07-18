@@ -29,7 +29,7 @@ let cantidadMates = 20;
 do{
     todas las lineas de codigo que quiero ejecutar varia veces
     cambiar la condicion logica para no entrar en bucle infinito
-}whilePEGADITO(condicion logica);
+}whilePEGADITO(condicion logica)
 */
 
 do{
